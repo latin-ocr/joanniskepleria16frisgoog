@@ -1,0 +1,59 @@
+296 ln librum Kepleri de Logaritlrmls
+
+numerorum aut quantitatum aequidilierentes sunt logarithmi. 2. et 3. Ex
+trium proportionalium logarithmis duplum secundi seu medii, minutum primo,
+aequatur tertio, et duplum secundi aequatur aggregato extremorum. 4. ct b.
+Ex 4 proportionalium logarithmis aggregatum secundi et tertii, minutum primo,
+sequatur quarto, ct aggregatum mediorum aequatur aggregato extremorum.
+6. Exquatuor continue proportionalium logarithmis triplum alterutrius mediorum
+aequatur aggregato extremi remoti et dupli vicini. ,
+
+Haec paucis illustrata sequitur ,Admonitio“, in qua dicit Neperus, ideo
+se ,in tempus magis idoneum doctrinam constructionis logarithmorum naus-
+silientem ad eorum usum properare, ut praelibatis prius usu et rei utilitate
+cetera aut magis placeant posilrac edenda, aut minus saitem displiceant,
+silentio sepulta. Praesiolari enim eruditorum dc bis judicium et censuram,
+priusquam cetera, in lucem temere prolata, lividorum detractioni expompant
+Quae his subjungit Neperus, plane ad usum logarithmorum et canonis de·
+scriptionem pertinent, ita ut omnia logarithmorum theoria sex paginis sit
+absoluta.
+
+In linc hujus introductionis hacc concludens dicit Neperus, ad quaa
+Keplerus in ,Dedicatione“ Ephemeridis ad annum 1620. (v. infra) respicit:
+Satis ergo jam ostensum est, quod sint, quid sint et cujus usus siut logarithmi.
+Eorum enim beneficio absque multiplicationis, divisionis aut radicum extractionis
+molestia omnis geometricae quaestionis solutionem logisticam promtissime
+exhiberi, tum apodictica demonstravimus, tum exemplis utriusque trigonometrise
+docuimus. Promissum itaque mirificum logarithmorum canonem habetis ejusque
+amplissimum usum: quae si vobis eruditioribus grata lore ex rescriptis resins
+intellexero, aninrns mihi addetur ad tabulae condendae methodum in lucem
+etiam proterendam.
+
+Anno 1619. Edinburgi et anno 1620. Lugduni prodiit: Mirificl logarith-
+morum (iunonis Constructio et corum ad naturales ipsorum numeros habi·
+tudines, uua cum appendice do alia eaque praestantiore logarithmorum specle
+condenda. Quibus accessere propositiones ad triangula sphaerica taediare
+calculo resolvenda. Una cum annotationibus aliquot doctissimi D. Hearici
+Bri g gii in aas. Filius dosunis Nepcri‚ Robertus, in praelatione dicit, ipsum
+auctorem huic opusculo extremam manum non imposuisse , babuisse vero per
+aliquot annos conscriptum, nec se dubitare, ,quin pater hoc opus mnllo
+perfectius et limatius in lucem edidisset, si Deus longiorem vitae usuram
+concessisset.“ Addidisse se „lucubrationes aliquot“ chricl Briggii in patris
+propositiones ad trigonomctrism sphaericam pertinentes, nec non ad „noram
+logarithmorum speciem“, a patre inventam, in qua unitatis logarith-
+messit o.
+
+ln hoc libro ea, quae prima editio de proportionaliter crescendo et
+decrescendo et „flrrxo“ puncti paucis verbis tangit, pluribus in lrunc modum
+explicantur. Primum distinguuntur rnodna crescendi ,artmmcticet et modus
+decrescendi ,geometriee“. „Aritbmctice crescere est, aequalibus temporibus
+aequali semper quantitate angeri, geometrice decrescere est, aequalibus ternpori·
+bus quantitatem primo totam, inde aliam atquc aliam ejus partem superstitem
+simili semper proportionali parte diminui.“ In linea bd procedat punctum
+,arithmetice“ a bvcrsus d, et in linea 'i'S (sin. tot.) moveatur pnncwm
+ean in 1 versus S ,geometricc“, quantoque tempore defertur aT ln l
+(v. c. 'lm TS), tanto idem G tempore moveatur ab l in 2 Ul„ de i S),
+siin 3 Ol„ de 2 S) etc. (Lincae TS, iS,2S, etc. dicuntur sinus). Si
+
+ 
+

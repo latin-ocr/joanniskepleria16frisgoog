@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joanniskepleria16frisgoog_0765.png"; bbox 0 0 5575 6342; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1724 4436 2364 4478">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1724 4436 2364 4478">
+     <span class='ocr_line' id='line_1_1' title="bbox 1724 4436 2364 4478; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 1724 4452 1731 4468; x_wconf 73' lang='grc'><em>,,.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1756 4444 1822 4473; x_wconf 43' lang='grc' dir='ltr'><em>μ’.»</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1858 4443 1918 4476; x_wconf 52' lang='grc' dir='ltr'><em>-.Α</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1934 4436 2016 4477; x_wconf 44' lang='grc' dir='ltr'><em>νῦν</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2034 4445 2095 4477; x_wconf 53' lang='grc' dir='ltr'><em>τ»,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2120 4436 2302 4478; x_wconf 52' lang='grc' dir='ltr'><em>ΐηίοὗ.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2324 4438 2329 4450; x_wconf 17' lang='grc'><em>,4</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2344 4459 2364 4473; x_wconf 72' lang='grc'><em>,-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2122 4466 2130 4477">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2122 4466 2130 4477">
+     <span class='ocr_line' id='line_1_2' title="bbox 2122 4466 2130 4477; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 2122 4466 2130 4477; x_wconf 63' lang='lat' dir='ltr'><em>n</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1150 404 4432 5922">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1150 404 4432 5922">
+     <span class='ocr_line' id='line_1_3' title="bbox 1150 404 4432 5922; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 1150 404 4432 5922; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joanniskepleria16frisgoog_0005.png"; bbox 0 0 5575 6342; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1149 1866 1719 1993">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1149 1866 1719 1993">
+     <span class='ocr_line' id='line_1_1' title="bbox 1149 1866 1719 1993; baseline 0.002 -10"><span class='ocrx_word' id='word_1_1' title='bbox 1149 1869 1180 1984; x_wconf 85' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_2' title='bbox 1183 1867 1410 1993; x_wconf 84' lang='lat' dir='ltr'>OANNIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1448 1866 1719 1984; x_wconf 77' lang='lat' dir='ltr'>KEPLERI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1300 2336 1553 2409">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1300 2336 1553 2409">
+     <span class='ocr_line' id='line_1_2' title="bbox 1300 2336 1553 2409; baseline 0.004 -1"><span class='ocrx_word' id='word_1_4' title='bbox 1300 2336 1553 2409; x_wconf 83' lang='lat' dir='ltr'><strong>ASTRONOMI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 878 2752 1976 2930">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 878 2666 2039 3031">
+     <span class='ocr_line' id='line_1_3' title="bbox 878 2752 1976 2930; baseline 0.003 -4"><span class='ocrx_word' id='word_1_5' title='bbox 878 2752 1976 2930; x_wconf 72' lang='lat' dir='ltr'><strong>ol’ERAollelA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1199 3359 1655 3499">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1199 3359 1655 3529">
+     <span class='ocr_line' id='line_1_4' title="bbox 1199 3359 1655 3499; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 1199 3359 1406 3499; x_wconf 69' lang='lat' dir='ltr'>vdLmfflN</span> <span class='ocrx_word' id='word_1_7' title='bbox 1433 3419 1655 3499; x_wconf 67' lang='lat' dir='ltr'><strong>smmum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2792 6340">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2792 6340">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2792 6340; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2792 6340; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
